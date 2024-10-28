@@ -1,0 +1,20 @@
+data da venda=2024-10-01 produto vendido=coca-cola quantidade vendido=10 preço de venda=5.00 total venda=50.00
+data da venda=2024-10-02 produto vendido=água mineral quantidade vendido=20 preço de venda=3.00 total venda=60.00
+data da venda=2024-10-03 produto vendido=snack de batata quantidade vendido=15 preço de venda=4.50 total venda=67.50
+data da venda=2024-10-04 produto vendido=suco de laranja quantidade vendido=12 preço de venda=6.00 total venda=72.00
+data da venda=2024-10-05 produto vendido=chocolate quantidade vendido=8 preço de venda=7.00 total venda=56.00
+data da venda=2024-10-06 produto vendido=biscoito quantidade vendido=25 preço de venda=2.00 total venda=50.00
+data da venda=2024-10-07 produto vendido=energético quantidade vendido=5 preço de venda=10.00 total venda=50.00
+data da venda=2024-10-08 produto vendido=água saborizada quantidade vendido=30 preço de venda=4.00 total venda=120.00
+data da venda=2024-10-09 produto vendido=limonada quantidade vendido=18 preço de venda=5.50 total venda=99.00
+data da venda=2024-10-10 produto vendido=pipoca quantidade vendido=10 preço de venda=3.50 total venda=35.00
+data da venda=2024-10-11 produto vendido=bolacha recheada quantidade vendido=7 preço de venda=8.00 total venda=56.00
+data da venda=2024-10-12 produto vendido=suco de uva quantidade vendido=14 preço de venda=6.50 total venda=91.00
+data da venda=2024-10-13 produto vendido=chiclete quantidade vendido=50 preço de venda=1.00 total venda=50.00
+data da venda=2024-10-14 produto vendido=barra de cereal quantidade vendido=20 preço de venda=2.50 total venda=50.00
+data da venda=2024-10-15 produto vendido=maçã quantidade vendido=30 preço de venda=1.20 total venda=36.00
+data da venda=2024-10-16 produto vendido=banana quantidade vendido=25 preço de venda=0.80 total venda=20.00
+data da venda=2024-10-17 produto vendido=iogurte quantidade vendido=10 preço de venda=4.00 total venda=40.00
+data da venda=2024-10-18 produto vendido=melancia quantidade vendido=5 preço de venda=15.00 total venda=75.00
+data da venda=2024-10-19 produto vendido=queijo quantidade vendido=3 preço de venda=20.00 total venda=60.00
+data da venda=2024-10-20 produto vendido=presunto quantidade vendido=4 preço de venda=18.00 total venda=72.00
